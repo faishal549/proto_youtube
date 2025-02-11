@@ -17,8 +17,10 @@
 
 - Features
    - Toggle feature sideBar 
-   - Optimize search bar with Debouncing concept
+   - Optimize search bar with Debouncing concept 
+   - Cached the search result into store 
    - fetch vedio data from you tube api 
    - Create Dynamic Route using params 
    - Create Live chat Prototype on Long Polling Concept 
+ 
    

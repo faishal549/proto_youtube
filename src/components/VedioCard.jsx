@@ -1,5 +1,5 @@
 const VedioCard = ({ content }) => {
-    const { channelTitle, thumbnails, title, } = content.snippet
+    const { channelTitle, thumbnails, title, } = content?.snippet
     return (
         <>
             <div className=" px-1 py-1  rounded-xl">
